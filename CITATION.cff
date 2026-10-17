@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Animate, please cite it using these metadata."
+title: "Animate: Procedural Animation Engine in Any Style for AI Coding Agents"
+type: software
+authors:
+  - family-names: "Formuli"
+    given-names: "Abdullah"
+    email: "authrainmedia@gmail.com"
+    website: "https://github.com/authrain-cloud-abdullahformuli"
+url: "https://github.com/authrain-cloud-abdullahformuli/animate"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/animate"
+license: MIT
+keywords:
+  - animation
+  - canvas
+  - procedural
+  - video-generation
+  - ai-agents
+  - claude-code
+  - motion-graphics
